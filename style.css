@@ -55,7 +55,7 @@ a:hover{
 img.prof-image {
   border: 3px solid rgb(8 8 8 / 82%);
   width: 300px;
-  margin-top: 10;
+  margin-top: 10px;
 }
 div.image-container{
  width: fit-content;
